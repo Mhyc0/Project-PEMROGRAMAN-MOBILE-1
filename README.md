@@ -22,7 +22,6 @@
 * Aplikasi otomatis mendeteksi pengaturan bahasa di HP pengguna.
 * **Indonesia:** Menampilkan sapaan "Selamat Datang".
 * **Inggris/Global:** Menampilkan sapaan "Welcome".
-* Tidak memerlukan izin lokasi (GPS), sehingga hemat baterai dan menjaga privasi.
 
 ### 4. 🎨 Desain Modern
 * **Full Dark Mode:** Nyaman di mata dan hemat baterai untuk layar AMOLED.
